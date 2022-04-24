@@ -8,7 +8,7 @@
 cd ~/mpi_balance
 pwd
 
-###module names can vary on different platforms
+#####module names can vary on different platforms
 module load R
 echo "loaded R"
 module list
